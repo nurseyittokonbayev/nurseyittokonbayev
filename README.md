@@ -50,7 +50,7 @@
 </div>
 
 <hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurseyittokonbayev&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurseyittokonbayev)](https://github.com/nurseyittokonbayev/github-readme-stats)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
