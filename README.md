@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Dart, Flutter**
 
-💬 Ask me about **Dart, Flutter, Firebase... or anything [here](https://github.com/nurseyittokonbayev/issues)**
+
 
 
 
