@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Online Okuu**
+🔭 I’m currently working as a freelancer.
  
  🌱 I’m currently learning **Dart, Flutter**
 
